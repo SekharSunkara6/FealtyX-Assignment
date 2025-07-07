@@ -24,7 +24,7 @@ It supports basic CRUD (Create, Read, Update, Delete) operations and uses in-mem
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/SekharSunkara6/https://github.com/SekharSunkara6/FealtyX-Assignment.git
 cd your-repo-name
 ```
 
@@ -115,4 +115,4 @@ your-repo-name/
 
 This project is for educational purposes.
 
-**Replace `SekharSunkara6/` with your actual GitHub username and repository name if needed.**
+**Replace `SekharSunkara6/https://github.com/SekharSunkara6/FealtyX-Assignment.git` with your actual GitHub username and repository name if needed.**
